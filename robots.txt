@@ -1,0 +1,40 @@
+# Wubanying / Bungo Stray Dogs new-character archive
+
+User-agent: *
+Allow: /
+
+# Doubao / ByteDance search
+User-agent: Bytespider
+Allow: /
+
+# DeepSeek web search and content discovery
+User-agent: DeepSeekBot
+Allow: /
+
+# Search indexes
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Other AI search and reading agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://kitentarou.github.io/wubanying/sitemap.xml
